@@ -22,8 +22,8 @@ Essas bactérias possuem em seu plásmideo (DNA extra das bactérias) a capacida
 
 - **Concientizar a população global** 
 - **Diminuir, se não acabar com a poluição dos oceanos**
-- **Buscar por inovação** vermelho/amarelo/verde
-- **Propagar informações verificadas e veridicas** 1 ou mais censores caso seja muito grande a área de análise para apenas 1 censor.
+- **Buscar por inovação** 
+- **Propagar informações verificadas e veridicas** 
 - **Inovação na tecnologia**
 
 
@@ -32,7 +32,8 @@ Essas bactérias possuem em seu plásmideo (DNA extra das bactérias) a capacida
 - Léo Masago / rm 557768
 - Luiz Henrique / rm 555235
 
-
+# Link do vídeo do projeto:
+**https://youtu.be/v1ld1QFtMMw**
 
 
 
