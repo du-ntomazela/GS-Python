@@ -1,7 +1,7 @@
 # :black_circle: Sprint - Python
-<h3> 
-  Desafio:
-</h3>
+
+# Desafio:
+
 Popularizar a Fórmula E, trazendo maior
 visibilidade ao público. A Solução de tecnologia terá como objetivo proporcionar aos usuários uma maior interação, incentivando novos públicos a consumir a Fórmula E 
 
@@ -37,29 +37,34 @@ inusitado e informativo possível. E ,ao final de cada temporada, fazer um levan
 dos influenciadores que geraram os melhores conteúdos, e liberar uma premiação para esses influenciadores do ranking visando gerar uma motivação a mais
 para assim gerar um conteúdo cada vez melhor.
 
-# Finalidades:
+# Dependencias:
 
 
 
-- **** 
-- **Diminuir, se não acabar com a poluição dos oceanos**
-- **Buscar por inovação** 
-- **Propagar informações verificadas e veridicas** 
-- **Inovação na tecnologia**
+- **Criar ou possuir um usuário e uma senha na aplicação** 
 
+# Instruções de uso:
+
+- **Usuário padrão:** "fiap2024"
+- **Senha padrão:** "1234"
+- **Para acessar cada funcionalidade deve digitar o nome dela quando requisitado na aplicação**
+- **Funcionalidades:** Pilotos / Veículos / Votação / Notícias
+- **Foco da solução está na funcionalidade: "Votação"**
+- **Como executar a aplicação:** Primeiro deve clonar o repositorio em que ela se encontra no GitHub, em segundo, o arquivo com formato ".py" deve ser executado devidamente com um interpretador de python devido em sua IDE.
+- **IDE recomendada:** PyCharm
 
 **Alunos / RMs**
 - Eduardo Tomazela / rm556807
 - Léo Masago / rm 557768
-- Luiz Henrique / rm 555235
+- Alexandre Assis / rm 558927
+- Gustavo Ramalho / rm 554582
+- Herbert de Sousa / rm 555701
 
-# Link do vídeo do projeto:
-**https://youtu.be/v1ld1QFtMMw**
 
 
 <h1>
   :dark_sunglasses: Integrantes:
 </h1>
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/161898042?v=4" width=115><br><sub>Eduardo Tomazela</sub>](https://github.com/du-ntomazela) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101646035?v=4" width=115><br><sub>Léo Massago</sub>](https://github.com/LeoMasago) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/162758896?v=4" width=115><br><sub>Luiz Henrique</sub>](https://github.com/LhenriqueTech)
-| :---: | :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/161898042?v=4" width=115><br><sub>Eduardo Tomazela</sub>](https://github.com/du-ntomazela) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101646035?v=4" width=115><br><sub>Léo Massago</sub>](https://github.com/LeoMasago) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/162758896?v=4" width=115><br><sub>Luiz Henrique</sub>](https://github.com/LhenriqueTech) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101646035?v=4" width=115><br><sub>Léo Massago</sub>](https://github.com/LeoMasago) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101646035?v=4" width=115><br><sub>Léo Massago</sub>](https://github.com/LeoMasago)
+| :---: | :---: | :---: | :---: | :---: |
